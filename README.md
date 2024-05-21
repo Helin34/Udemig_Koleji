@@ -6,6 +6,6 @@
 
 HTML5 ve CSS3 ile ileri animasyon teknolojileri kullanılmıştır
 
-<h2> Ekran Gifi </h2>
+<h2> Ekran Görüntüsü </h2>
 
 ![](ekran.gif)
